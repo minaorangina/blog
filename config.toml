@@ -1,7 +1,7 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://example.com/"
+baseURL = "https://mina.engineer/"
 title = "Mina's blog"
 languageCode = "en"
 hasCJKLanguage = false
