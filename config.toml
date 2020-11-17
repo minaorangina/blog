@@ -9,7 +9,7 @@ hasCJKLanguage = false
 copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)"
 
 # Name of theme
-theme = "meme"
+theme = "hugo-theme-meme"
 
 # `hugo new` automatically opened text editor
 newContentEditor = ""
