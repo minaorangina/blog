@@ -6,7 +6,7 @@ tags: ["go"]
 summary: "Easy mistakes when mutating a slice in Go, and how to avoid them."
 ---
 
-_This was originally submitted to [Flashreads](theflashreads.com)_.
+_This was originally submitted to [Flashreads](https://theflashreads.com/common-gotchas-when-mutating-a-slice)_.
 
 ---
 
