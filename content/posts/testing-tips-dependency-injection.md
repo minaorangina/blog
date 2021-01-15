@@ -1,7 +1,7 @@
 ---
 title: "Testing Tips: Dependency Injection"
 date: 2020-05-26T18:09:09+01:00
-draft: true
+draft: false
 summary: A strategy I used to improve the testability of a CLI application.
 ---
 
